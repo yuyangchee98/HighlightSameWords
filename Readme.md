@@ -1,6 +1,6 @@
-# Word IDE-Style Word Highlighting
+# Highlight same words
 
-A simple Microsoft Word VBA macro that adds IDE-style word highlighting functionality to Word. When you click on a word and run the macro, it highlights all instances of that word in the document. Click again to remove the highlighting.
+A Microsoft Word VBA macro. When you click on a word and run the macro, it highlights all instances of that word in the document. Click again to remove the highlighting.
 
 ![Demo](https://i.imgur.com/euyRhB3.gif)
 
