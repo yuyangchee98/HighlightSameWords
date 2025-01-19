@@ -2,7 +2,7 @@
 
 A Microsoft Word VBA macro. When you click on a word and run the macro, it highlights all instances of that word in the document. Click again to remove the highlighting.
 
-![Demo](https://i.imgur.com/euyRhB3.gif)
+![Demo](https://i.imgur.com/anCrk85.gif)
 
 ## Features
 
